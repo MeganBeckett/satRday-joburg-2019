@@ -1,5 +1,4 @@
 # satRday-joburg-2019
-Presentations for satRday Joburg 2019.
 
 <img src="hex-satRday-jhb.png" width="200" style = "float:right;"/>
 
