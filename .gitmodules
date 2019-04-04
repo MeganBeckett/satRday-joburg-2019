@@ -1,3 +1,6 @@
 [submodule "4th_session/5-andrew-collier"]
 	path = 4th_session/5-andrew-collier
 	url = git@github.com:datawookie/talk-plumber-api.git
+[submodule "3rd_session/referenceClasses"]
+	path = 3rd_session/referenceClasses
+	url = https://github.com/eckhard-briedenhann/referenceClasses.git
